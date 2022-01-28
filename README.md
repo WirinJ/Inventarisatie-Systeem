@@ -1,6 +1,6 @@
 # Flower Inc.
 
-Flower Inc. is een inventarisatie systeem bedoeld voor bloemisten.
+Flower Inc. is een inventarisatie systeem voor bloemisten.
 
 ## Installatie
 
